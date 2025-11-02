@@ -1,0 +1,32 @@
+# Core FastAPI dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+python-multipart==0.0.6
+
+# Database
+asyncpg==0.29.0
+psycopg2-binary==2.9.10
+SQLAlchemy==2.0.23
+alembic==1.13.1
+
+# Validation
+pydantic==2.5.0
+pydantic-core==2.14.1
+
+# Async support
+anyio==3.7.1
+greenlet==3.1.1
+
+# Environment management
+environs==11.2.1
+marshmallow==3.22.0
+
+# Server
+uvloop==0.21.0
+httptools==0.6.4
+watchfiles==0.24.0
+websockets==13.1
+
+# Utilities
+typing-extensions==4.13.2

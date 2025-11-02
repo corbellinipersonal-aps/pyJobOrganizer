@@ -173,8 +173,14 @@ The app uses Reflex State with:
 
 ## 📚 Documentation
 
+- [ENVIRONMENT_SETUP.md](ENVIRONMENT_SETUP.md) - Complete environment configuration guide
+- [RENDER_DEPLOYMENT.md](RENDER_DEPLOYMENT.md) - Deploy to Render step-by-step
 - [REFLEX_STEPS.md](REFLEX_STEPS.md) - Complete development roadmap
 - [CHANGELOG.md](CHANGELOG.md) - Detailed change history with timestamps
+- [CODE_AUDIT.md](CODE_AUDIT.md) - Code quality audit report
+- [CLEAN_UI_CODE_ANALYSIS.md](CLEAN_UI_CODE_ANALYSIS.md) - UI code analysis
+- [CLEAN_CODE_ANALYSIS.md](CLEAN_CODE_ANALYSIS.md) - Architecture analysis
+- [CLEAN_ARCHITECTURE_ANALYSIS.md](CLEAN_ARCHITECTURE_ANALYSIS.md) - Design patterns
 - [Reflex Docs](https://reflex.dev/docs) - Official Reflex documentation
 
 ## 🎓 Lessons Learned

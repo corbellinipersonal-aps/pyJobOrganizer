@@ -4,3 +4,11 @@
 __pycache__/
 assets/external/
 *.py[cod]
+
+# Backend specific ignores
+backend/.env
+backend/venv/
+backend/__pycache__/
+backend/alembic/versions/
+*.log
+*.backup
